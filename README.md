@@ -4,7 +4,7 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
+<h3 align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)</h3>
 <p align="center">⌇ My Name is Illusion.<br>⌇ I am from Germany 🇩🇪.</p>
 
 ###
