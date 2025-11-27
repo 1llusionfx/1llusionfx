@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/iLJU8yK.png" alt="My Banner">
+<img src="https://i.imgur.com/M7DaOg5.png" alt="My Banner">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
 
