@@ -30,6 +30,14 @@
 
 <p align="center"> ◟ Coding in Python actively for 1–2 weeks<br><br> ◟ Beginner in Web Development & JavaScript<br><br> ◟ Building multifunctional tools to simplify everyday tasks<br><br> ◟ My Goals: To grow my skills in Python, JavaScript, Web- and Discord Development, to create solutions that make life easier through code.<br><br> ◟ Always open to feedback, tips, and collaboration<br> Discord: @1l9n &nbsp;|&nbsp; Telegram: @ilsnexch </p>
 
+<p align="center">
+◟ I’m always open to feedback, tips, and collaboration.<br>
+Please use the form below to reach out!<br><br>
+
+<iframe src="https://form.typeform.com/to/kGuOgqgh" width="80%" height="600" frameborder="0"></iframe>
+</p>
+
+
 ###
 
 <h2 align="center">I use/code</h2>
