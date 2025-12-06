@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">◟Coding in Python actively since 1-2 Weeks.<br><br>◟Beginner in Web Development & Javascript<br><br>◟Creating multi-fun. Tools to ease some tasks<br><br>◟My Goals: To develop myself further in Python, <br>Javascript, React, NodeJS aswell as discord.js/py to find my way.<br>Make the world easier through coding solutions.<br><br>◟I am free for Contact, Tips and Tricks<br>Discord @1l9n / Telegram @ilsnexch</p>
+<p align="center"> ◟ Coding in Python actively for 1–2 weeks<br><br> ◟ Beginner in Web Development & JavaScript<br><br> ◟ Building multifunctional tools to simplify everyday tasks<br><br> ◟ My Goals: To grow my skills in Python, JavaScript, Web- and Discord Development, to create solutions that make life easier through code.<br><br> ◟ Always open to feedback, tips, and collaboration<br> Discord: @1l9n &nbsp;|&nbsp; Telegram: @ilsnexch </p>
 
 ###
 
