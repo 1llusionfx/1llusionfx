@@ -32,9 +32,7 @@
 
 <p align="center">
 ◟ I’m always open to feedback, tips, and collaboration.<br>
-Please use the form below to reach out!<br><br>
-
-<iframe src="https://form.typeform.com/to/kGuOgqgh" width="80%" height="600" frameborder="0"></iframe>
+Please use [The Form](https://form.typeform.com/to/kGuOgqgh) to reach out!<br><br>
 </p>
 
 
