@@ -32,7 +32,8 @@
 
 <p align="center">
 ◟ I’m always open to feedback, tips, and collaboration.<br>
-Please use [The Form](https://form.typeform.com/to/kGuOgqgh) to reach out!<br><br>
+Please use the Form below to reach out!<br><br>
+[![Feedback Form](https://img.shields.io/badge/Feedback-Form-blue)](https://form.typeform.com/to/kGuOgqgh)
 </p>
 
 
