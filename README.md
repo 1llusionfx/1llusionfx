@@ -32,7 +32,7 @@
 Please use the Form below to reach out!<br><br> </p>
 
 <p align="center">
-[Submit feedback here!](https://form.typeform.com/to/kGuOgqgh)
+  [Submit feedback here!](https://form.typeform.com/to/kGuOgqgh)
 </p>
 
 
