@@ -4,16 +4,13 @@
 
 ###
 
-<div align="center">
 <img src="https://i.imgur.com/sCJTYFQ.png" alt="My Banner">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/UT0rYWX.gif"  />
-</div>
+<img height="200" src="https://i.imgur.com/UT0rYWX.gif"  />
 
 ###
 
@@ -65,17 +62,13 @@
 
 ## ✘ Now Playing on Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/vpuk84nun4o9cf5rclrod0czm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vpuk84nun4o9cf5rclrod0czm&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<a href="https://open.spotify.com/user/vpuk84nun4o9cf5rclrod0czm">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=vpuk84nun4o9cf5rclrod0czm&count=5&unique=false" alt="Spotify recently played"  />
+</a>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1llusionfx.1llusionfx&right_color=blueviolet&left_text=My%20Visitors"  />
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=1llusionfx.1llusionfx&right_color=blueviolet&left_text=My%20Visitors"  />
 
 ###
 
