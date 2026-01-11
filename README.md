@@ -10,7 +10,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
 
 <p>⌇ My name is <strong>Illusion</strong>.<br>
-⌇ I am from Germany 🇩🇪.</p>
+⌇ I am from Germany 🇩🇪.<br>I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.</p>
 </div>
 
 ###
@@ -21,13 +21,13 @@
 
 ###
 
-## About me
+## ✘ About me
 
-◟ Coding in Python actively for 1–2 weeks
+◟ Coding in Python actively for 1 Month
 
-◟ Beginner in Web Development & JavaScript
+◟ Beginner in Web-Development & Discord Development
 
-◟ Building multifunctional tools to simplify everyday tasks
+◟ Building multifunctional tools, Discord Bots and Web-Applications to simplify everyday tasks
 
 ◟ My Goals: To grow my skills in Python, JavaScript, Web- and Discord Development, to create solutions that make life easier through code.
 
@@ -39,15 +39,15 @@
 
 ###
 
-## I use/code
+## ✘ I use/code
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,html,css,lua,discord&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,html,css,lua&theme=dark" alt="My Skills" />
 </p>
 
 ###
 
-## Connect with me
+## ✘ Connect with me
 
 <p align="left">
   <a href="https://discord.com/users/470286224888954900" target="_blank">
@@ -61,7 +61,7 @@
 
 ###
 
-## Now Playing on Spotify
+## ✘ Now Playing on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/vpuk84nun4o9cf5rclrod0czm">
