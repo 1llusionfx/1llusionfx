@@ -9,10 +9,6 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
 
-<p>⌇ My name is <strong>Illusion</strong>.<br>
-⌇ I am from Germany 🇩🇪.<br>I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.</p>
-</div>
-
 ###
 
 <div align="center">
@@ -22,6 +18,12 @@
 ###
 
 ## ✘ About me
+
+⌇ My name is <strong>Illusion</strong>
+
+⌇ I am from Germany 🇩🇪.
+
+⌇ I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.
 
 ◟ Coding in Python actively for 1 Month
 
