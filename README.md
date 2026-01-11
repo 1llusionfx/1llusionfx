@@ -5,8 +5,12 @@
 ###
 
 <img src="https://i.imgur.com/sCJTYFQ.png" alt="My Banner">
+
+<div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
+
+</div>
 
 ###
 
