@@ -86,10 +86,6 @@ Please use the Form below to reach out!<br><br> </p>
 
 ###
 
-[![1llusion's GitHub stats](https://github-readme-stats.vercel.app/api?username=1llusionfx)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
