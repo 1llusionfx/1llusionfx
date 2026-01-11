@@ -19,7 +19,7 @@
 
 ## ✘ About me
 
-⌇ My name is <strong>Illusion</strong>
+⌇ My name is Illusion.
 
 ⌇ I am from Germany 🇩🇪.
 
