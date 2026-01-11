@@ -65,14 +65,21 @@
 ###
 
 ## ✘ Now Playing on Spotify
-
+<div align="center">
+  
 <a href="https://open.spotify.com/user/vpuk84nun4o9cf5rclrod0czm">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=vpuk84nun4o9cf5rclrod0czm&count=5&unique=false" alt="Spotify recently played"  />
 </a>
 
+</div>
+
 ###
 
+<div align="center">
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=1llusionfx.1llusionfx&right_color=blueviolet&left_text=My%20Visitors"  />
+
+</div>
 
 ###
 
