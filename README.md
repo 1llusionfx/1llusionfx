@@ -44,8 +44,19 @@
 
 ## ✘ I use/code
 
+### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,html,css,lua&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,lua,nodejs,react,nextjs,fastapi,discordjs,tailwind&theme=dark" alt="Languages & Frameworks" />
+</p>
+
+### Tools I use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,npm,powershell,cloudflare,stackoverflow,ae,ps&theme=dark" alt="Tools" />
+</p>
+
+### Databases & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
 </p>
 
 ###
