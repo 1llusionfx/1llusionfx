@@ -4,16 +4,6 @@
 
 ###
 
-<img src="https://i.imgur.com/sCJTYFQ.png" alt="My Banner">
-
-<div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/470286224888954900)](https://discord.com/users/470286224888954900)
-
-</div>
-
-###
-
 <img height="200" src="https://i.imgur.com/UT0rYWX.gif"  />
 
 ###
@@ -26,7 +16,7 @@
 
 ⌇ I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.
 
-◟ Coding in Python actively for 1 Month
+◟ Coding in Python actively for 2 Months
 
 ◟ Beginner in Web-Development & Discord Development
 
@@ -36,9 +26,7 @@
 
 ◟ Discord: @1l9n &nbsp;|&nbsp; Telegram: @ilsnexch
 
-◟ I'm always open to feedback, tips, and collaboration. Please use the form below to reach out!
-
-**[Submit feedback here!](https://form.typeform.com/to/kGuOgqgh)**
+◟ I'm always open to feedback, tips, and collaboration.
 
 ###
 
@@ -46,17 +34,17 @@
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,lua,nodejs,react,nextjs,fastapi,discordjs,tailwind&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,php,lua,nodejs,react,nextjs,fastapi,discordjs,tailwind&theme=dark" alt="Languages & Frameworks" />
 </p>
 
 ### Tools I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,npm,powershell,cloudflare,stackoverflow,ae,ps&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,npm,cloudflare,stackoverflow&theme=dark" alt="Tools" />
 </p>
 
 ### Databases & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,flask,django,express&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark" alt="Databases" />
 </p>
 
 ###
