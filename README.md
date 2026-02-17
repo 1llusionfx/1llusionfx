@@ -16,7 +16,7 @@
 
 ⌇ I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.
 
-◟ Coding in Python actively for 2 Months
+◟ Actively involved in IT for 2.5 Years & coding in Py/JS as a Hobby for 2-3 Months
 
 ◟ Beginner in Web-Development & Discord Development
 
