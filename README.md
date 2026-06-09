@@ -1,76 +1,38 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=94&section=header&reversal=false&text=Hey,%20welcome%20on%20my%20Github!&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<h1 align="center">Hey, my name is 1llusion</h1>
 
-###
-
-<img height="200" src="https://i.imgur.com/UT0rYWX.gif"  />
-
-###
-
-## ✘ About me
-
-⌇ My name is Illusion.
-
-⌇ I am from Germany 🇩🇪.
-
-⌇ I'm a motivated beginner developer currently focused on Python & JavaScript, growing toward frontend and full-stack development.
-
-◟ Actively involved in IT for 2.5 Years & coding in Py/JS as a Hobby for 2-3 Months
-
-◟ Beginner in Web-Development & Discord Development
-
-◟ Building multifunctional tools, Discord Bots and Web-Applications to simplify everyday tasks
-
-◟ My Goals: To grow my skills in Python, JavaScript, Web- and Discord Development, to create solutions that make life easier through code.
-
-◟ Discord: @1l9n &nbsp;|&nbsp; Telegram: @ilsnexch
-
-◟ I'm always open to feedback, tips, and collaboration.
-
-###
-
-## ✘ I use/code
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,php,lua,nodejs,react,nextjs,fastapi,discordjs,tailwind&theme=dark" alt="Languages & Frameworks" />
+<p align="center">
+  <a href="https://1llusion.dev/">1llusion.dev</a> • 
+  <a href="https://miracledev.cc/">MiracleDev</a> • 
+  <a href="https://guns.lol/1ln">Guns.lol</a> • 
+  <a href="https://sparked.lol/1l">Sparked</a>
 </p>
 
-### Tools I use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,npm,cloudflare,stackoverflow&theme=dark" alt="Tools" />
+---
+
+```javascript
+const developer = {
+  role: "Junior Backend Developer",
+  bio:  "Building efficient, data-driven, and scalable server-side applications.",
+  
+  about: {
+    currentFocus: "Deep-diving into backend architecture, database management, and API design.",
+    primaryStack: "Next.js paired with robust databases like PostgreSQL and SQLite.",
+    currentlyLearning: ["Query optimization", "Serverless architecture", "System scalability"]
+  },
+
+  techStack: [
+    "JavaScript", "TypeScript", "Python", "Node.js", "React", 
+    "FastAPI", "Git", "MongoDB", "PostgreSQL", "SQLite"
+  ]
+};
+```
+
+---
+
+### Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1llusionfx&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="98%"/>
 </p>
 
-### Databases & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark" alt="Databases" />
-</p>
-
-###
-
-## ✘ Connect with me
-
-<p align="left">
-  <a href="https://discord.com/users/470286224888954900" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/ilsnexch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" alt="Telegram" />
-  </a>
-</p>
-
-###
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=1llusionfx.1llusionfx&right_color=blueviolet&left_text=My%20Visitors"  />
-
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+---
