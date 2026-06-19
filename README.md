@@ -1,5 +1,5 @@
 <div align="center">
-**`1llusion`** · junior backend developer · scalability enthusiast · student
+`**1llusion**` · junior backend developer · scalability enthusiast · student
 
 [![Website](https://img.shields.io/badge/1llusion.dev-1e1e2e?style=for-the-badge&logoColor=89b4fa)](https://1llusion.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/1llusionfx?style=for-the-badge&color=1e1e2e&labelColor=1e1e2e&logoColor=89b4fa&logo=github)](https://github.com/1llusionfx)
