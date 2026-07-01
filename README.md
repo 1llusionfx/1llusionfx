@@ -3,8 +3,8 @@
 **`1lsn`**  · **`junior backend developer`** · **`scalability enthusiast`** · **`college student`**
 
 [![Website](https://img.shields.io/badge/1llusion.dev-1e1e2e?style=for-the-badge&logoColor=89b4fa)](https://1llusion.dev/)
-[![GitHub followers](https://img.shields.io/github/followers/1llusionfx?style=for-the-badge&color=1e1e2e&labelColor=1e1e2e&logoColor=89b4fa&logo=github)](https://github.com/1llusionfx)
 [![wakatime](https://wakatime.com/badge/user/90bec809-0401-45a9-8521-7c2b75a1d6f3.svg)](https://wakatime.com/@90bec809-0401-45a9-8521-7c2b75a1d6f3)
+[![GitHub followers](https://img.shields.io/github/followers/1llusionfx?style=for-the-badge&color=1e1e2e&labelColor=1e1e2e&logoColor=89b4fa&logo=github)](https://github.com/1llusionfx)
 
 </div>
 
