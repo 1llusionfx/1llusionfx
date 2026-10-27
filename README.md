@@ -81,6 +81,4 @@ ilsn@void:~$ </pre>
 
 `// turning complex logic into elegant, production-grade architecture.`
 
-[![commitmentissues](https://img.shields.io/badge/%F0%9F%AA%A6%20declared%20dead-view%20certificate-555?style=for-the-badge&labelColor=cc0000)](https://commitmentissues.dev/?repo=1llusionfx%2F1llusion-portfolio)
-
 </div>
